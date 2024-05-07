@@ -21,7 +21,7 @@ I can also work in backend thechnologies like--
 
 <br>
 <h2 align="left"> ⚙ Technologies</h2>
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/html5-2.svg" width="48" height="48" alt="HTML">
@@ -52,6 +52,7 @@ I can also work in backend thechnologies like--
       <br>Tailwind CSS
     </td>
   </tr>
+  <br>
   <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap">
