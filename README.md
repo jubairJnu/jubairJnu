@@ -25,51 +25,53 @@ I can also work in backend thechnologies like--
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./images/html5-2.svg" width="48" height="48" alt="html" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./images/css-4" width="48" height="48" alt="css" />
       </a>
-      <br>Jsonnet
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./images/javascript-2.svg" width="48" height="48" alt="js" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./images/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./images/tailwind-css-2.svg" width="48" height="48" alt="html" />
       </a>
-      <br>Kubernetes
+      <br>Tailwind Css
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+      
+        <img src="./images/boostrap-5-1.svg" width="48" height="48" alt="boostrap" />
+      
+      <br>Boostrap
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
+      
+        <img src="./images/material-ui-1.svg" width="48" height="48" alt="mui" />
+      
+      <br>Material Ui
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <img src="./images/ant-design-svgrepo-com.svg" width="48" height="48" alt="ant" />
+      <br>Ant Design
+    </td>
+     <td align="center" width="96">
+      <img src="./images/nodejs-icon.svg" width="48" height="48" alt="node" />
+      <br>Node js
     </td>
   </tr>
 </table>
