@@ -20,7 +20,7 @@ I can also work in backend thechnologies like--
 
 
 <br>
-<h2 align="left">Technologies</h2>
+<h2 align="left"> ⚙ Technologies</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -40,9 +40,19 @@ I can also work in backend thechnologies like--
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/nextjs-icon-1.svg" width="48" height="48" alt="nextjs">
+      <br>Next js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/react-1-svgrepo-com.svg" width="48" height="48" alt="react">
+      <br>react js
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/tailwind-css-2.svg" width="48" height="48" alt="Tailwind CSS">
       <br>Tailwind CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap">
       <br>Bootstrap
