@@ -44,7 +44,7 @@ I can also work in backend thechnologies like--
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/boostrap-5-1.svg" width="48" height="48" alt="Bootstrap">
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/boostsrap-5-1.svg" width="48" height="48" alt="Bootstrap">
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -58,6 +58,18 @@ I can also work in backend thechnologies like--
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/nodejs-icon.svg" width="48" height="48" alt="Node.js">
       <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/express-109.svg" width="48" height="48" alt="express">
+      <br>Express js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/firebase-1.svg" width="48" height="48" alt="firebase">
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/mongodb-icon-1.svg" width="48" height="48" alt="mongodb">
+      <br>Mongodb
     </td>
   </tr>
 </table>
