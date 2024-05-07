@@ -1,4 +1,4 @@
-Hello
+<img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/git-cover.jpg" />
 
 ## :chart_with_upwards_trend: Current Stats
 
