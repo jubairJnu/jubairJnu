@@ -25,61 +25,60 @@ I can also work in backend thechnologies like--
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./images/html5-2.svg" width="48" height="48" alt="html" />
+        ![HTML](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/html5-2.svg)
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./images/css-4" width="48" height="48" alt="css" />
+        ![CSS](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/css-4.svg)
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./images/javascript-2.svg" width="48" height="48" alt="js" />
+        ![JavaScript](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/javascript-2.svg)
       </a>
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./images/typescript.svg" width="48" height="48" alt="TypeScript" />
+        ![TypeScript](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/typescript.svg)
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./images/tailwind-css-2.svg" width="48" height="48" alt="html" />
-      </a>
-      <br>Tailwind Css
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
       <a href="#macropower-tech">
-        
-        <img src="./images/boostrap-5-1.svg" width="48" height="48" alt="boostrap" />
+        ![Tailwind CSS](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/tailwind-css-2.svg)
       </a>
-      
-      <br>Boostrap
-    </td>
-    <td align="center"  width="96">
-      
-        <img src="./images/material-ui-1.svg" width="48" height="48" alt="mui" />
-      
-      <br>Material Ui
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="./images/ant-design-svgrepo-com.svg" width="48" height="48" alt="ant" />
+      <a href="#macropower-tech">
+        ![Bootstrap](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/boostrap-5-1.svg)
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        ![Material UI](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/material-ui-1.svg)
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        ![Ant Design](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/ant-design-svgrepo-com.svg)
+      </a>
       <br>Ant Design
     </td>
-     <td align="center" width="96">
-      <img src="./images/nodejs-icon.svg" width="48" height="48" alt="node" />
-      <br>Node js
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        ![Node.js](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/nodejs-icon.svg)
+      </a>
+      <br>Node.js
     </td>
   </tr>
 </table>
-
 
 ## :chart_with_upwards_trend: Current Stats
 
