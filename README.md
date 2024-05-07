@@ -44,7 +44,7 @@ I can also work in backend thechnologies like--
       <br>Next js
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/react-1-svgrepo-com.svg" width="48" height="48" alt="react">
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/react-1-logo-svgrepo-com.svg" width="48" height="48" alt="react">
       <br>react js
     </td>
     <td align="center" width="96">
