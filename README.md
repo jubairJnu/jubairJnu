@@ -24,57 +24,39 @@ I can also work in backend thechnologies like--
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![HTML](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/html5-2.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/html5-2.svg" width="48" height="48" alt="HTML">
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![CSS](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/css-4.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/css-4.svg" width="48" height="48" alt="CSS">
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![JavaScript](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/javascript-2.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/javascript-2.svg" width="48" height="48" alt="JavaScript">
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![TypeScript](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/typescript.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/typescript.svg" width="48" height="48" alt="TypeScript">
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![Tailwind CSS](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/tailwind-css-2.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/tailwind-css-2.svg" width="48" height="48" alt="Tailwind CSS">
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![Bootstrap](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/boostrap-5-1.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/boostrap-5-1.svg" width="48" height="48" alt="Bootstrap">
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![Material UI](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/material-ui-1.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/material-ui-1.svg" width="48" height="48" alt="Material UI">
       <br>Material UI
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![Ant Design](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/ant-design-svgrepo-com.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/ant-design-svgrepo-com.svg" width="48" height="48" alt="Ant Design">
       <br>Ant Design
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        ![Node.js](https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/nodejs-icon.svg)
-      </a>
+      <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/images/nodejs-icon.svg" width="48" height="48" alt="Node.js">
       <br>Node.js
     </td>
   </tr>
