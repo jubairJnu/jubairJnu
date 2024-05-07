@@ -20,6 +20,7 @@ I can also work in backend thechnologies like--
 
 
 <br>
+<h2 align="left">Technologies</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -30,9 +31,9 @@ I can also work in backend thechnologies like--
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./images/html5-2.svg" width="48" height="48" alt="html" />
       </a>
-      <br>Python
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
