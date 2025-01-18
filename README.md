@@ -1,22 +1,31 @@
 <img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/git-cover.jpg" />
 
-## What i do
+## What I do
 
-As a mern stack developer i build a full stack web application. Recently, i am focusing more in frontend thechnologies such as--
+As a mern stack developer, I build a full stack web application. Recently, I have been using frontend technologies such as--
 
 
 
-- Next js
+- Javascript
+- Typescript
+-  Next js
 - React js
 - Redux
-- Tailwind css
-- Material ui
+- Tailwind CSS
+- Material UI
+- Shadcn Ui
+- Bootstrap
+- Ant Design
+- Firebase
 
-I can also work in backend thechnologies like--
+Also in backend technologies like--
 
 - Node js
 - Express js
-- Mongodb & Mongoose
+- MongoDB & Mongoose
+- Redis
+- JWT
+- Postgresql
 
 
 <br>
