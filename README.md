@@ -14,6 +14,7 @@ As a mern stack developer, I build a full stack web application. Recently, I hav
 - Tailwind CSS
 - Material UI
 - Shadcn Ui
+- Next UI
 - Bootstrap
 - Ant Design
 - Firebase
@@ -26,6 +27,7 @@ Also in backend technologies like--
 - Redis
 - JWT
 - Postgresql
+- Prisma
 
 
 <br>
