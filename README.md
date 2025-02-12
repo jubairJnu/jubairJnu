@@ -99,7 +99,7 @@ Also in backend technologies like--
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?jubairJnu=anuraghazra&show_icons=true&theme=radical" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jubairJnu&show_icons=true&theme=radical" />
 </p>
 
 
