@@ -100,8 +100,9 @@ I have been using frontend technologies such as--
   </tr>
 </table>
 
+<br><br><br><br>
 <div>
-## DevCard
+# DevCard
 <a href="https://app.daily.dev/jubairabdullah"><img src="https://api.daily.dev/devcards/v2/n1JNsxcFmxCY2XLKzeNiS.png?type=default&r=ov1" width="356" alt="Jubair Abdullah's Dev Card"/></a>
 </div>
 <br><br><br><br><br>
