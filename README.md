@@ -2,9 +2,20 @@
 
 ## What I do
 
-As a mern stack developer, I build a full stack web application. Recently, I have been using frontend technologies such as--
+As a mern stack developer, I build a full stack web application. I'm focusing more on the backend side. 
 
+- Node js
+- Express js
+- MongoDB & Mongoose
+- Redis
+- JWT
+- Postgresql
+- Prisma
+- Socket Io
+- Bullmq
 
+  
+I have been using frontend technologies such as--
 
 - Javascript
 - Typescript
@@ -19,15 +30,8 @@ As a mern stack developer, I build a full stack web application. Recently, I hav
 - Ant Design
 - Firebase
 
-Also in backend technologies like--
 
-- Node js
-- Express js
-- MongoDB & Mongoose
-- Redis
-- JWT
-- Postgresql
-- Prisma
+
 
 
 <br>
@@ -102,6 +106,9 @@ Also in backend technologies like--
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jubairJnu&show_icons=true&theme=radical" />
 </p>
 
+
+##: DevCard
+<a href="https://app.daily.dev/jubairabdullah"><img src="https://api.daily.dev/devcards/v2/n1JNsxcFmxCY2XLKzeNiS.png?type=default&r=ov1" width="356" alt="Jubair Abdullah's Dev Card"/></a>
 
 
 <br><br><br><br><br>
