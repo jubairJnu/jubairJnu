@@ -111,10 +111,13 @@ I have been using frontend technologies such as--
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jubairJnu)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jubairJnu" alt="GitHub Streak" />
+  </a>
   <br>
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jubairJnu&show_icons=true&theme=radical" />
 </p>
+>
 
 
 
