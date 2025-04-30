@@ -118,7 +118,7 @@ I have been using frontend technologies such as--
   <br>
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jubairJnu&show_icons=true&theme=radical" />
 </p>
->
+
 
 
 
