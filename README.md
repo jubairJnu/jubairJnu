@@ -2,7 +2,7 @@
 
 ## What I do
 
-As a mern stack developer, I build a full stack web application. I'm focusing more on the backend side. 
+As a MERN stack developer, I build a full-stack web application and Mobile Application. I'm focusing more on the backend side. 
 
 - Node js
 - Express js
