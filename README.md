@@ -14,6 +14,7 @@ As a MERN stack developer, I build a full-stack web application and Mobile Appli
 - Socket Io
 - Bullmq
 
+
   
 I have been using frontend technologies such as--
 
@@ -29,6 +30,10 @@ I have been using frontend technologies such as--
 - Bootstrap
 - Ant Design
 - Firebase
+
+DevOps
+- Docker
+- AWS
 
 
 
