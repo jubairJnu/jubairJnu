@@ -108,7 +108,14 @@ DevOps
 <br><br><br><br>
 ## 🚀 DevCard
 
-<a href="https://app.daily.dev/jubairabdullah"><img src="https://api.daily.dev/devcards/v2/n1JNsxcFmxCY2XLKzeNiS.png?type=wide&r=ov1" width="652" alt="Jubair Abdullah's Dev Card"/></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="[https://github-readme-streak-stats.herokuapp.com?user=jubairJnu](https://app.daily.dev/jubairabdullah"><img src="https://api.daily.dev/devcards/v2/n1JNsxcFmxCY2XLKzeNiS.png?type=wide&r=ov1)" width="652" alt="Jubair Abdullah's Dev Card />
+  </a>
+</p>
+
+
+
 
 <br><br><br><br><br>
 
