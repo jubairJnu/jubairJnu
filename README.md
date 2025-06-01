@@ -122,6 +122,7 @@ DevOps
 
 ## :chart_with_upwards_trend: Current Stats
 
+<div display="flex">
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -135,7 +136,7 @@ DevOps
   <br>
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jubairJnu&show_icons=true&theme=radical" />
 </p>
-
+</div>
 
 
 
