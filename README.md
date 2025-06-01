@@ -143,18 +143,10 @@ DevOps
   </tr>
 </table>
 
-<p align="center">
-
-  <br>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jubairJnu&show_icons=true&theme=radical" />
-</p>
 
 
 
 
 
 
-<br><br><br><br><br>
-  <div align=center>
-  
-  </div>
+
