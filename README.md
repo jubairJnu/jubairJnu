@@ -34,6 +34,8 @@ I have been using frontend technologies such as--
 DevOps
 - Docker
 - AWS
+- CI/CD
+- Nginx
 
 
 
