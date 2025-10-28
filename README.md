@@ -13,6 +13,7 @@ As a MERN stack developer, I build a full-stack web application and Mobile Appli
 - Prisma
 - Socket Io
 - Bullmq
+- Fast API
 
 
   
