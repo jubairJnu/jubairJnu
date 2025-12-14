@@ -6,6 +6,7 @@ As a MERN stack developer, I build a full-stack web application and Mobile Appli
 
 - Node js
 - Express js
+- Nest js
 - MongoDB & Mongoose
 - Redis
 - JWT
