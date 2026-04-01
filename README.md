@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/git-cover.jpg" />
+<img src="https://raw.githubusercontent.com/jubairJnu/jubairJnu/main/readme.png" />
 
 ## What I do
 
